@@ -1,5 +1,5 @@
 variable "rgname" {
-  default     = "TS-DEV-APP-DISKRG"
+  default     = "TS-DEV-APP-DISKRG1"
   type        = string
   description = "this is RG name"
 }
